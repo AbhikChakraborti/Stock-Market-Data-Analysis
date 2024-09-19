@@ -1,5 +1,8 @@
-# Stock-Market-Data-Analysis
+# Time-Series-Data-Analysis
+
  This is a Stock-Market-Price-Analysis
+ 
+ We can take as many stocks into analysis as possible but for the sake of clarity, used Top 4 stocks ['Apple', 'Google', 'Amazon', 'Microsoft'] according to my understanding.
 
 ## <ins>Problem statements solved in this Analysis are</ins> :
 1. Analysing **change in price** of the stock *overtime* !

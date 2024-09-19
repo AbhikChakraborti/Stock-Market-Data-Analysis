@@ -12,4 +12,12 @@
 5. Performing analysis to see if stocks <ins>**['Apple', 'Google', 'Amazon', 'Microsoft']**</ins> has any co-relation between the closing prices of each
 6. Analyse whether the **Daily Return % change** between stocks have any co-relation or not?
 
-## Problem statement 5 & 6 are of ***Co-Relation Analysis***
+### Problem statement 5 & 6 are of ***Co-Relation Analysis***
+
+## Libraries used:
+
+1) pandas
+2) seaborn
+3) matplotlib
+4) plotly
+
